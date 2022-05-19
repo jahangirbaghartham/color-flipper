@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-main{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #3333;
+  padding: 20px 0px 20px 0px;
+}
+
+.nav-main li{
+  list-style: none;
+}
+
+.main-content{
+  height: 89vh;
+}
+
+
+.containor{
+  text-align: center;
+  padding-top: 15%;
+  padding-left: 35%;
+}
+
+.containor h2{
+  background-color: black;
+  color: whitesmoke;
+  width: 44%;
+  border-radius: 22px;
+}
+
+
+.btnnn{
+  padding-top: 35px;
+  text-align: center;
+  
+}
+.btnnn button{
+  width: 12%;
+  border-radius: 12px;
+  text-decoration: none;
+  list-style: none;
+}
+
